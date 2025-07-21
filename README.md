@@ -13,7 +13,7 @@ Insights and recommendations are provided on the following key areas:
 - **Participant segmentation**: An assessment of the participants of the study. Their health statistics and overall routine.
 - **Relationship analysis**: An analysis of the relationship between the measured variables to determine the impact they have on overall health.
 
-The entire 17-page report is available [here](). This includes the multiple Excel and R visualizations not added to this Readme file.
+The entire 17-page report is available [here](Bellabeat-project---Google-Cert/Bellabeat_Report.pdf). This includes the multiple Excel and R visualizations not added to this Readme file.
 
 The Excel report can be found [here]().
 
