@@ -15,9 +15,9 @@ Insights and recommendations are provided on the following key areas:
 
 The entire 17-page report is available [here](https://github.com/Memesls/Bellabeat-project---Google-Cert/blob/4da9abfdd6b3698fd85779276a6dd2fad27b7842/Bellabeat%20Report.pdf). This includes the multiple Excel and R visualizations not added to this Readme file.
 
-The Excel report can be found [here](https://github.com/Memesls/Bellabeat-project---Google-Cert/blob/4da9abfdd6b3698fd85779276a6dd2fad27b7842/Merged_all_3_tables.xlsx).
+The Excel report can be found and downloaded [here](https://github.com/Memesls/Bellabeat-project---Google-Cert/blob/4da9abfdd6b3698fd85779276a6dd2fad27b7842/Merged_all_3_tables.xlsx).
 
-The SQL query used to aggregate data for further analysis is available [here](https://github.com/Memesls/Bellabeat-project---Google-Cert/blob/4da9abfdd6b3698fd85779276a6dd2fad27b7842/SQL_query_data_aggregation).
+The SQL query used to aggregate data in BigQuery for further analysis is available [here](https://github.com/Memesls/Bellabeat-project---Google-Cert/blob/4da9abfdd6b3698fd85779276a6dd2fad27b7842/SQL_query_data_aggregation).
 
 The R code used to create the relationship visualizations and data aggregation can be found [here](https://github.com/Memesls/Bellabeat-project---Google-Cert/blob/9e32d03950003a726170d4b83157546546cd283d/Bellabeat%20analysis%20exploration.R).
 
