@@ -19,7 +19,7 @@ The Excel report can be found [here]().
 
 The SQL query used to aggregate data for further analysis is available [here]().
 
-The R code used to create the relationship visualizations and data aggregation can be found [here]().
+The R code used to create the relationship visualizations and data aggregation can be found [here](https://github.com/Memesls/Bellabeat-project---Google-Cert/blob/9e32d03950003a726170d4b83157546546cd283d/Bellabeat%20analysis%20exploration.R).
 
 ## Data Structure
 
