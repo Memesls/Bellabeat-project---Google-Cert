@@ -12,7 +12,7 @@ Insights and recommendations are provided on the following key areas:
 - **Smart device features usage**: An overview of the different features offered by smart devices and how likely consumers are to use them.
 - **Participant segmentation**: An assessment of the participants of the study. Their health statistics and overall routine.
 - **Relationship analysis**: An analysis of the relationship between the measured variables to determine the impact they have on overall health.
-<lr/>
+<br/>
 The dataset used for this project can be found [here](https://www.kaggle.com/datasets/arashnic/fitbit).
 
 The entire 17-page report is available [here](https://github.com/Memesls/Bellabeat-project---Google-Cert/blob/4da9abfdd6b3698fd85779276a6dd2fad27b7842/Bellabeat%20Report.pdf). This includes the multiple Excel and R visualizations not added to this Readme file.
